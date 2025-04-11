@@ -1,0 +1,5 @@
+PyQt5==5.15.10
+SQLAlchemy==2.0.29
+reportlab==4.1.0
+pytest==8.1.1
+

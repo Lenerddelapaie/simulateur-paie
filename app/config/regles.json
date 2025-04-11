@@ -1,0 +1,17 @@
+{
+    "duree_legale_travail": 35,
+    "repartition_heures_par_defaut": {
+      "Lundi": 7,
+      "Mardi": 7,
+      "Mercredi": 7,
+      "Jeudi": 7,
+      "Vendredi": 7,
+      "Samedi": 0,
+      "Dimanche": 0
+    },
+    "majorations": {
+      "heures_sup_25": 25,
+      "heures_sup_50": 50
+    }
+  }
+  
