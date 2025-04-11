@@ -12,6 +12,8 @@
     "majorations": {
       "heures_sup_25": 25,
       "heures_sup_50": 50
-    }
+    },
+    "coefficient_mensualisation": 4.3333
   }
+  
   
