@@ -9,11 +9,14 @@
       "Samedi": 0,
       "Dimanche": 0
     },
-    "majorations": {
-      "heures_sup_25": 25,
-      "heures_sup_50": 50
-    },
-    "coefficient_mensualisation": 4.3333
+    "majorations_heures_sup": [
+      {"jusqua": 8, "taux": 125},
+      {"au_dela": 8, "taux": 150}
+    ],
+    "coefficient_mensualisation": 4.3333,
+    "taux_horaire_smics": [
+      {"date": "2024-11-01", "taux": 11.88},
+    ]
   }
   
   
